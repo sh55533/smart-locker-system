@@ -1,4 +1,4 @@
-# -# 🔐 얼굴 인식 기반 스마트 무인 택배 보관함
+# 🔐 얼굴 인식 기반 스마트 무인 택배 보관함
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
